@@ -1,0 +1,2 @@
+config SHIELD_BYOKBRD
+    def_bool $(shields_list_contains, byokbrd)
